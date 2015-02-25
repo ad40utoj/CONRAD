@@ -16,7 +16,7 @@ public class PhantomFirst extends Grid2D{
 		//DrawRectangle(width/4, height/4, height/4, 1.0);
 		
 		DrawCircle(width/4, height/4, 40, 0.8);
-		DrawCircle(width * 3/4, height/4, 40, 0.8);
+		DrawCircle(width * 3/4, height/4, 40, 0.7);
 		DrawCircle(width/2, height/2, 150, 1.0);
 		DrawCircle(width/2, height * 2/3, 55, 0.6);
 		DrawCircle(width * 2/5, height * 2/5, 20, 0.15);
